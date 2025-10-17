@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aswin7111/exp-7-calorie-trackerr.git/static/css/main.bb49c434.css",
+    "main.js": "/Aswin7111/exp-7-calorie-trackerr.git/static/js/main.38cf6b7b.js",
+    "static/js/453.77b3a0f2.chunk.js": "/Aswin7111/exp-7-calorie-trackerr.git/static/js/453.77b3a0f2.chunk.js",
+    "index.html": "/Aswin7111/exp-7-calorie-trackerr.git/index.html",
+    "main.bb49c434.css.map": "/Aswin7111/exp-7-calorie-trackerr.git/static/css/main.bb49c434.css.map",
+    "main.38cf6b7b.js.map": "/Aswin7111/exp-7-calorie-trackerr.git/static/js/main.38cf6b7b.js.map",
+    "453.77b3a0f2.chunk.js.map": "/Aswin7111/exp-7-calorie-trackerr.git/static/js/453.77b3a0f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb49c434.css",
+    "static/js/main.38cf6b7b.js"
+  ]
+}
