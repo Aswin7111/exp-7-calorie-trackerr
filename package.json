@@ -1,5 +1,5 @@
 {
-  "homepage": "https://aswin7111.github.io/calorie-tracker",
+  "homepage": "https://Aswin7111.github.io/exp-7-calorie-trackerr",
   "name": "calorie-trackerr",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build"
 
   },
   "eslintConfig": {
